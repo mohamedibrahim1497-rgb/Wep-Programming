@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, sans-serif
+    ;background-color: #f4f4f4
+    ;padding: 20px
+}
+navbar{
+    background-color: #222;
+    ;padding: 12px;
+    ;margin-bottom: 20px;
+}
+navbr{
+    color:white
+    ;margin-right: 15px
+    ;text-decoration: none
+    ;font-weight: bold;
+
+}
+section-text{
+    font-size: 18px
+    ;line-height: 1.7
+    ;margin-bottom: 25px;
+
+}
+btn{
+    background-color:white
+    ;color: white
+    ;padding: 12px 20px
+    ;text-decoration: none
+    ;border-radius: 6px
+    ;font-size: 18px
+    ;display: inline-block
+    ;margin-top: 20px;
+
+}
+btn:hover{
+    background-color: darkblue;
+}
